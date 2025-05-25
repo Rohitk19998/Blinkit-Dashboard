@@ -35,4 +35,6 @@ Capitalize on Medium-Sized Success: It is also worth noting that our medium-size
    Rohit Kolhapure
 •	Email: rkolhapure271@gmail.com
 
+Screenshots / Demo
+Example:![Dashboard Preview](https://github.com/Rohitk19998/Blinkit-Dashboard/blob/main/SnapShot%20of%20the%20Dashboard.png.png).
 
